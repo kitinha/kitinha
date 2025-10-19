@@ -1,5 +1,5 @@
-## ﻿Helllo!
-<img width="536" height="465" alt="ba17f79d-4196-469b-a47d-d200bb99a593-removebg-preview" src="https://github.com/user-attachments/assets/debf5403-167b-41d0-8353-f4375af1cf9a" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5OWl0c2dmcXh3dWI2Ym50dTA0bWc5MWg1bmhwdXh3aGR0dTM1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPBOTCIljPcZi/giphy.gif" align="center">
+
 
 <!--
 **kitinha/kitinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

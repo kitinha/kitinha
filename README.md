@@ -9,8 +9,13 @@
 I like playing video games, watching anime and having fun with friends. I also love animals, but cats have a special place in my heart.
 Feel free to see my page, make yourself confortable and enjoy!</p>
 <br></br>
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRvcnk2YjJqMmJ4emQzMnA3aTdycXdiMmMyZW13ZjN0eXFueDk5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif"></p>
+<p align="center"><img width="250px" height="250px" src="https://github.com/user-attachments/assets/26fd71ea-cce0-4e83-98fb-e3996fd58bbe">
+  <img width="250px" height="250px" src="https://github.com/user-attachments/assets/d84de33a-ad3e-4714-87c4-6c1acc0502c4">
+  <img width="250px" height="250px" src="https://github.com/user-attachments/assets/08a4ed9f-e7eb-4d76-9528-ff3c3920162c">
+</p>
+
 <br></br>
+
   <h1 align="center">𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h1>
   <br></br>
   <h3 align="center">42 Common Core</h3>

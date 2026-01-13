@@ -21,6 +21,8 @@ Feel free to see my page, make yourself confortable and enjoy!</p>
       <td><a href="https://github.com/kitinha/libft">libft</a></td>
       <td>Created a library of useful functions mostly consisting of string and list manipulation.</td>
     </tr>
+    <td><a href="https://github.com/kitinha/Printf">printf</a></td>
+      <td>Create a fully functional printf implementation that behaves identically to the standard library function</td>
   </table>
   <br></br>
   <img width="1920" height="82" alt="BannerBottom" src="https://github.com/user-attachments/assets/3c7e9404-5412-4d96-8477-53b2d450266d" />

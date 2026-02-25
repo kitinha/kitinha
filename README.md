@@ -24,7 +24,7 @@ Feel free to see my page, make yourself confortable and enjoy!</p>
     <td><a href="https://github.com/kitinha/Printf">printf</a></td>
       <td>Create a fully functional printf implementation that behaves identically to the standard library function</td>
     <tr>
-      <td><a href="https://github.com/kitinha/get_next_line">libft</a></td>
+      <td><a href="https://github.com/kitinha/get_next_line">get_next_line</a></td>
       <td>.</td>
     </tr>
   </table>

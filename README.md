@@ -7,12 +7,12 @@
 <br></br>
 <p align="left">Hi I'm Inês Silva but you can call me Kita! I'm currently a student at 42Lisboa where I'm working to be a Full Stack Developer.
 I like playing video games, watching anime and having fun with friends. I also love animals, but cats have a special place in my heart.
-Feel free to see my page, make yourself confortable and enjoy!</p>
+Feel free to see my page, make yourself comfortable and enjoy!</p>
 <br></br>
 
 <br></br>
 
-  <h1 align="center">⤷ ゛ ˎˊ˗ My Projects</h1>
+  <h1 align="center">⤷ ゛My Projects ˎˊ˗</h1>
   <br></br>
   <h3 align="center">42 Common Core</h3>
   <br></br>

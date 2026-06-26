@@ -5,8 +5,7 @@
 <br></br>
 <h1 align="center">⋆˚࿔  About me 𝜗𝜚˚⋆</h1>
 <br></br>
-<p align="left">Hi I'm Inês Silva but you can call me Kita! I'm currently a student at 42Lisboa where I'm working to be a Full Stack Developer.
-I like playing video games, watching anime and having fun with friends. I also love animals, but cats have a special place in my heart.
+<p align="left">Hi I'm Inês Silva but you can call me Kita! I'm working to be a Full Stack Developer. I like playing video games, watching anime and I also love animals, but cats have a special place in my heart. 𑄝੭
 Feel free to see my page, make yourself comfortable and enjoy!</p>
 <br></br>
 
